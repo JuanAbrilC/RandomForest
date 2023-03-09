@@ -1,2 +1,2 @@
 # RandomForest
-We use a randomforest algorithm for predict different features in the application process of the organization 
+We use a randomforest algorithm for predict the most important features in the application process of different candidates in the organization 
